@@ -10,8 +10,8 @@
 
 
 <div align="center"><hr>
-  <img height="140em" src="https://github-readme-stats-vss9.vercel.app/api?username=williamkermer&theme=gotham&show_icons=true&border_radius=12&hide_border=true"/> 
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamkermer&layout=compact&theme=gotham&show_icons=true&border_radius=12&hide_border=true"/>
+  <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=williamkermer&theme=gotham&show_icons=true&border_radius=12&hide_border=true"/> 
+  <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=williamkermer&layout=compact&theme=gotham&show_icons=true&border_radius=12&hide_border=true"/>
 </div>
     
 ##
