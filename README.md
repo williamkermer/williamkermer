@@ -5,8 +5,8 @@
 ---
 
 - 🔭 I’m currently searching for professional development opportunities.
-- 🌱 I’m currently studying on Instituto Federal de São Paulo, currently I’m in the second semester.
-- 📖 I’m currently learning JS, Python, Java and VBA.
+- 🌱 I’m currently studying on Instituto Federal de São Paulo, currently I’m in the third semester.
+- 📖 I’m currently learning JS, Python, Java.
 
 
 <div align="center"><hr>
