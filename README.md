@@ -4,7 +4,7 @@
 
 ---
 
-- 🔭 I’m currently searching for professional development opportunities.
+- 🔭 I’m currently working at Engecorps Engenharia S.A.
 - 🌱 I’m currently studying on Instituto Federal de São Paulo, currently I’m in the third semester.
 - 📖 I’m currently learning JS, Python, Java.
 
